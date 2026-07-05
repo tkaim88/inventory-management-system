@@ -1,5 +1,5 @@
 """
-Temporary in-memory inventory database.
+Temporary in-memory inventory database
 
 This file simulates data storage using a Python list.
 Each inventory item must have a unique ID.
