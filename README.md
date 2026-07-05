@@ -110,4 +110,4 @@ pytest
 
 Run tests with detailed output:
 
-pytest -v
+pytest -v.
