@@ -111,3 +111,5 @@ pytest
 Run tests with detailed output:
 
 pytest -v.
+
+## This project demonstrates Flask routing, CRUD operations, external API integration, testing, and Git workflow management.
